@@ -23,16 +23,17 @@ At its core, the platform features a unique **Prompt Generator** tool powered by
   - Curate your feed based on interests and follow favorite creators.
   - Like, comment, and remix others' creations.
 
-- **Prompt Monetization**
-  - **Free Prompts**: Share prompts as NFTs in the community collection for others to view and remix.
+- **Generative AI Prompt Monetization**
+  - **Free Prompts**: Share AI Image prompts as NFTs in the community collection for others to view and remix.
   - **Premium Prompts**: Monetize your creativity by selling protected prompts as premium NFTs.
     - Multi-layered protection: **Locked**, **AES Encrypted**, **Token-Gated Access**.
     - Earn rewards when others purchase your premium prompts.
 
 - **Challenges and Competitions**
-  - Participate in or host theme-based challenges with APT prizes.
+  - Participate in or host theme-based challenges with APT prizes held in escrow.
   - Submit creations, vote for favorites, and win prizes.
-  - Fair winner selection using the **Aptos Randomness API**.
+  - Fair winner selection using the **Aptos Randomness API** when there's a tie.
+  - Blockchain Automation service that finalizes challenges and sends prizes
 
 - **Leaderboard and Rewards**
   - Earn XP and streaks by engaging with the platform.
