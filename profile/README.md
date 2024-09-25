@@ -77,32 +77,6 @@ At its core, the platform features a unique **Prompt Generator** tool powered by
 - **Social Login Support**
   - Easy onboarding with **Aptos Keyless** social logins—no complex keys to manage.
 
-## How It Works
-
-1. **Sign Up**
-   - Register using your social media account via **Aptos Keyless**.
-2. **Create a Prompt**
-   - Use the **Prompt Generator** to craft a high-quality prompt from your idea.
-3. **Generate an Image**
-   - Choose an AI model to generate your image using the prompt.
-4. **Share or Monetize**
-   - Decide to share your prompt and image for free or monetize it as a premium NFT.
-5. **Engage with the Community**
-   - Browse creations, like, comment, and follow creators.
-   - Participate in challenges to win prizes.
-6. **Earn Rewards**
-   - Gain XP and streaks to unlock more features and credits.
-
-## Built with Aptos Blockchain
-
-- **Security and Transparency**
-  - Utilizes **Aptos' advanced blockchain technology** for secure transactions.
-- **Gasless Experience**
-  - Sponsored transactions mean no fees for users, **currently optimized for Petra Wallet**.
-- **Randomness API**
-  - Ensures fair selection of challenge winners.
-
-## Getting Started
 
 
 *Empower your creativity. Join us today!*
