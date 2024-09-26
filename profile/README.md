@@ -27,7 +27,7 @@ By reducing onboarding friction by abstracting gas fees with **sponsored transac
 
 - **Generative AI Prompt Monetization**
   - **Free Prompts**: Share AI Image prompts as NFTs in the community collection for others to view and remix.
-  - **Premium Prompts**: Monetize your creativity by selling protected prompts as premium NFTs.
+  - **Premium Prompts**: Monetize your creativity by selling protected prompts as premium NFTs. Generated images are displayed publicly, but the underlying prompts protected.
     - Multi-layered protection: **Locked**, **AES Encrypted**, **Token-Gated Access**.
     - Earn rewards when others purchase your premium prompts.
 
