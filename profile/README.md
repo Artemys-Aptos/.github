@@ -8,7 +8,7 @@
 
 At its core, the platform features a unique Prompt Generator powered by a customized GPT-4o model, helping users—especially newcomers—create refined prompts for optimal AI-generated images. 
 
-By reducing onboarding friction by abstracting gas fees with sponsored transactions, supporting Aptos Keyless social logins, as well as ensuring fair challenges via the Aptos Randomness API, the platform makes web3 & AI technologies accessible and user-friendly for everyone
+By reducing onboarding friction by abstracting gas fees with **sponsored transactions**, supporting **Aptos Keyless social logins**, as well as ensuring **fair challenges via the Aptos Randomness API**, the platform makes web3 & AI technologies accessible and user-friendly for everyone
 
 ## Key Features
 
