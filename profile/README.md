@@ -15,7 +15,7 @@ At its core, the platform features a unique **Prompt Generator** tool powered by
   - Ideal for beginners to achieve optimal results with AI image models.
 
 - **AI Image Creation**
-  - Generate stunning images using models like **Stable Diffusion** and **DALL·E**.
+  - Generate stunning images using advanced models like **Stable Diffusion**, **Stable Image core** and **Stable Image Ultra** that excels in typography, complex compositions, dynamic lighting, vibrant hues, and overall cohesion and structure of an art piece
   - Use your own prompts or those crafted by the **Prompt Generator**.
 
 - **Social Engagement**
