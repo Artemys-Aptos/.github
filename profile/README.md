@@ -6,7 +6,9 @@
 
 **Artemys AI** is an AI-powered social platform built on the **Aptos blockchain** for the **Code Collision Hackathon**. It enables users to generate, share, and monetize high-quality generative AI prompts, and their generated AI Image output.
 
-At its core, the platform features a unique **Prompt Generator** tool powered by a customized AI model based on **GPT-4o**, designed to help users—especially those new to AI—create refined prompts that produce the best possible AI-generated images.
+At its core, the platform features a unique Prompt Generator powered by a customized GPT-4o model, helping users—especially newcomers—create refined prompts for optimal AI-generated images. 
+
+By reducing onboarding friction by abstracting gas fees with sponsored transactions, supporting Aptos Keyless social logins, as well as ensuring fair challenges via the Aptos Randomness API, the platform makes web3 & AI technologies accessible and user-friendly for everyone
 
 ## Key Features
 
