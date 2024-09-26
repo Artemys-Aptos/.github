@@ -1,6 +1,6 @@
 # Artemys AI
 
-*Empower your creativity with AI and blockchain technology.*
+*Unlock the Value of Your Generative AI Prompts—Create, Share, Earn*
 
 ## Overview
 
