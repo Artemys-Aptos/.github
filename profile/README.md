@@ -46,4 +46,10 @@ At its core, the platform features a unique **Prompt Generator** tool powered by
 
 ---
 
+## Getting Started
+ This codebase has three main parts
+  - [Frontend](https://github.com/Artemys-Aptos/frontend)
+  - [Backend](https://github.com/Artemys-Aptos/artemis-aptos-backend): Stores all of the indexed data from the smart contracts, hosts our blockchain automation service for finalizing community challenges and extra computation
+  - [Smart Contracts](https://github.com/Artemys-Aptos/artemys-aptos-contracts): Smart contracts for the Prompt Marketplace and also Hosting community run challenges
+
 *Empower your creativity. Join us today!*
