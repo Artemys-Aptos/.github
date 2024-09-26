@@ -20,8 +20,8 @@ At its core, the platform features a unique **Prompt Generator** tool powered by
 
 - **Social Engagement**
   - Share your AI-generated images and prompts with a vibrant community.
-  - Curate your feed based on interests and follow favorite creators.
-  - Like, comment, and remix others' creations.
+  - Curate your personalized feed based on interests and follow favorite creators.
+  - Like, interact, and remix others' creations.
 
 - **Generative AI Prompt Monetization**
   - **Free Prompts**: Share AI Image prompts as NFTs in the community collection for others to view and remix.
